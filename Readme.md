@@ -1,4 +1,4 @@
-# Predictive Modeling and Time Series Analysis for Scallop Sales and S&P 500 Performance
+# High-Frequency Forecasting: S&P 500 and Fisheries
 
 ## Project Overview
 This project involves the application of advanced time series analysis and forecasting techniques to two distinct datasets: monthly Scallop sales over a 26-year period and the S&P 500 index from Yahoo Finance. The goal is to predict future trends and extract actionable insights from both the fisheries and financial markets, leveraging models like ARIMA, SARIMA, and GARCH.
